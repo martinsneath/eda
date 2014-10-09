@@ -1,6 +1,6 @@
 Exploratory Data Analysis Project 1
 
-The file house that is read by each program and included was greated using
+The file house that is read by each program and included was created using
 grep on the unix command line to save reading the entire dataset in
 
 If you were to run these scripts you would download the file "house" and 
@@ -11,7 +11,7 @@ The files are default created 480 x 480. The example unnamed png files from
 the repository had a grey background, but not the ones on the coursera web
 page, so I went with a standard background
 
-Thanks for you time in grading, following is the decription of the project
+Thanks for you time in grading, following is the description of the project
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
